@@ -1,0 +1,2 @@
+# Preserve the original experiment artifacts, including their line endings.
+experiments/** -text
